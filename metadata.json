@@ -1,0 +1,8 @@
+{
+  "name": "Remix مولّد تقارير الصيانة",
+  "description": "منصة ذكية وميدانية لمهندسي الشبكات وفنيي الدعم الفني لإنشاء وتوليد تقارير الصيانة الدورية وإصلاح الأعطال بالذكاء الاصطناعي وتصديرها بصيغة Word وبدعم كامل للغة العربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
